@@ -1,18 +1,18 @@
 body {
 	background-color: tan;
 	font-family: "Merriweather";
-	font-size: 12pt;
+	font-size: 18pt;
     padding: 10px;
     padding-bottom: 75px;
 }
 
 img {
-    max-width: 300px;
+    max-width: 500px;
 }
 
 nav {
     display: inline-block;
-    font-size: 1.55em;
+    font-size: 1.2em;
 }
 
 /* Links (http://mchow01.github.io/)*/ 
@@ -27,7 +27,7 @@ a:hover {
 
 /* Menu bar */
 .menu-title {
-    font-size: 1.8em;
+    font-size: 1.2em;
     text-decoration: none;
     color: black;
     padding-right: 75px;
